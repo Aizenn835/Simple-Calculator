@@ -27,7 +27,7 @@ A simple web-based calculator built using HTML, CSS, and JavaScript. This calcul
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/simple-calculator.git
+git clone https://github.com/Aizenn835/Simple-Calculator.git
 ```
 
 ### Run the Project
